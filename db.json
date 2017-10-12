@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Anderson",
+      "age": 37,
+      "companyId": "33"
+    },
+    {
+      "id": "7",
+      "firstName": "Maria",
+      "age": 28,
+      "companyId": "33"
+    },
+    {
+      "id": "13",
+      "firstName": "Kouji",
+      "age": 21,
+      "companyId": "38"
+    }
+  ],
+  "companies": [
+    {
+      "id": "33",
+      "name": "Microsoft",
+      "description": "Windows"
+    },
+    {
+      "id": "38",
+      "name": "Apple",
+      "description": "iOS and macOS"
+    },
+  ]
+}
